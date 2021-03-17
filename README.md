@@ -1,8 +1,8 @@
 Interested in
+ - Teaching myself new coding skills (currently learning more about Python and Javascript)
  - Upcycling
- - Teaching myself new coding skills (working on Python and JS)
- - Learning more about Git
-
-Currently working on Home Automation (with Home Assistant)
+ - Home Automation
+ - Raspberry Pi
+ - TrueNAS
 
 Contact me via info@p4mr.com
