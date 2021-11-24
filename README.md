@@ -1,6 +1,6 @@
 Interested in
- - Teaching myself new coding skills (currently learning more about Python and Javascript)
- - Upcycling (usually involving tech of some form)
- - Home Automation (primarily Home Assistant)
- - Raspberry Pi (currently running 7 at the last count)
- - TrueNAS (main system is a Dual Xeon, 16 drive, 100Tb system running multiple webservers and Plex)
+ - Teaching myself new coding skills (currently working with mostly Python and Javascript)
+ - Upcycling (usually involving tech or electronics of some form)
+ - Home Automation systems (primarily Home Assistant)
+ - Raspberry Pi (running 7 at the last count)
+ - TrueNAS (primary server is a Dual Xeon, 100Tb system running Plex and 7 other jails)
